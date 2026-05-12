@@ -1,6 +1,4 @@
 # Flag Finder
-**"Streamlining Capture the Flag Challenges"**
-
 Flag Finder is a powerful tool designed to enhance your experience in the world of cybersecurity games, specifically tailored for the popular Capture the Flag challenges. With the increasing complexity of these games involving numerous files, Flag Finder was designed to make things more efficient and quick.
 
 ***
