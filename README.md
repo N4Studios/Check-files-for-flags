@@ -16,7 +16,7 @@ Flag Finder is a powerful tool designed to enhance your experience in the world 
 3. **Customizable Search Parameters:**
    - Define specific opening and closing strings. (Prefix and Suffix)
 
-4. **Hash Decryption (SHA-256):** <--STILL IN DEVELOPMENT
+4. **Hash Decryption (SHA-256):** `⚠️ STILL IN DEVELOPMENT ⚠️`
    - If the flagged content is hashed using SHA-256, Flag Finder provides an advanced feature to decrypt it through brute force.
 
 6. **Cross-Platform Compatibility:**
